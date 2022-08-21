@@ -2,7 +2,10 @@
   "name": "jg-ballard-premise-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "exports": "./index.mjs",
+  "engines": {
+    "node": ">=14.16"
+  },
   "scripts": {
     "cli": "node bin/cli.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
