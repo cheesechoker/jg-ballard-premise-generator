@@ -17,8 +17,10 @@ export default class Generator {
     const action = randomElement(this.actions);
     const [preposition, location] = randomElement(this.locations).split('|');
 
-    return `${subject}…
-${action}
-${preposition} ${location}.\n`;
+    return [
+      `${subject}…`,
+      action,
+      `${preposition} ${location}.\n`
+    ].join('\n');
   }
 }
