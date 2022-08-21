@@ -3,10 +3,10 @@
 /*eslint-env node*/
 /*eslint-disable no-console*/
 
-import Generator from "../src/generator.mjs";
 import { readFileSync } from 'fs';
 import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
+import Generator from "../src/generator.mjs";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -18,12 +18,16 @@ function loadAsArray(path) {
         .filter(s => s !== '' && !s.startsWith('#'));
 }
 
-const gen = new Generator({
-    subject: loadAsArray("../corpus/subject.txt"),
-    action: loadAsArray("../corpus/action.txt"),
-    location: loadAsArray("../corpus/location.txt"),
-});
+function main() {
+    const gen = new Generator({
+        subject: loadAsArray("../corpus/subject.txt"),
+        action: loadAsArray("../corpus/action.txt"),
+        location: loadAsArray("../corpus/location.txt"),
+    });
 
-for (var i = 0; i < 100; i++) {
-    console.log("" + gen.getString())
+    for (let i = 0; i < 100; i++) {
+        console.log("" + gen.getString())
+    }
 }
+
+main()

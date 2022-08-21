@@ -13,10 +13,10 @@ export default class Generator {
   }
 
   getString() {
-    const { subjects, actions, locations } = this;
-    const subject = randomElement(subjects);
-    const action = randomElement(actions);
-    const [preposition, location] = randomElement(locations).split('|');
+    const subject = randomElement(this.subjects);
+    const action = randomElement(this.actions);
+    const [preposition, location] = randomElement(this.locations).split('|');
+
     return `${subject}…
 ${action}
 ${preposition} ${location}.\n`;

@@ -1,6 +1,8 @@
 at|a disused spaceport
 at|a former nuclear test site in French Polynesia 
 at|a luxury hotel on the Mediterranean coast 
+at|Disney World
+at|the Las Vegas strip
 at|the ruins of Cape Canaveral
 at|the site of an aviation disaster in Mexico 
 in|a cruise missile silo
@@ -14,4 +16,6 @@ in|a town where time never advances
 in|a world where all human interaction is mediated via television screens
 in|an abandoned resort town
 in|post apocalyptic Spain
+in|post apocalyptic Florida
+in|the Nevada desert
 in|war-ravaged Shanghai
