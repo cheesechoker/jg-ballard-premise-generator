@@ -1,8 +1,11 @@
 import randIndex from './rand.mjs';
 
-
 function randomElement(array) {
   return array[randIndex(array)];
+}
+
+function capitalize(s) {
+  return `${s.slice(0,1).toUpperCase()}${s.slice(1)}`;
 }
 
 export default class Generator {
@@ -18,7 +21,7 @@ export default class Generator {
     const [preposition, location] = randomElement(this.locations).split('|');
 
     return [
-      `${subject}…`,
+      `${capitalize(subject)}…`,
       action,
       `${preposition} ${location}.\n`
     ].join('\n');

@@ -15,7 +15,7 @@ in|a remote village in French west Africa
 in|a town where time never advances 
 in|a world where all human interaction is mediated via television screens
 in|an abandoned resort town
-in|post apocalyptic Spain
-in|post apocalyptic Florida
+in|post-apocalyptic Spain
+in|post-apocalyptic Florida
 in|the Nevada desert
 in|war-ravaged Shanghai
