@@ -8,3 +8,7 @@ function getRandomInt(min, max) {
 export default function randIndex(array) {
   return getRandomInt(0, array.length);
 }
+
+export function randomElement(array) {
+  return array[randIndex(array)];
+}
