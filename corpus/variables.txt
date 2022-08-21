@@ -1,8 +1,9 @@
 broken_object = a damaged WWII fighter plane | a derelict automobile
 celeb = President John F. Kennedy | Ronald Regan | the film actress Elizabeth Taylor
-discovery = an unknown state of matter | a creeping infestation | the corpse of an immense gigantoid
+discovery = an unknown state of matter | a creeping infestation | the corpse of a giant humanoid creature | an underground sex-trafficking ring run by corporate CEOs
 malady = fantastical mental delusions
 place = highway interchange | old motel | derelict automobile
 profession = astronaut | pilot
 phenomenon = the dark secrets of a mysterious heiress | the existence of god | a rising rate of fetal abnormalities | a government plot to dispose of "undesirables" abroad
 strange_effect = time to move slower | crystalline spores to consume one's skin | radioactive tissue decay
+# | the power to grant instant death to ones' enemies
