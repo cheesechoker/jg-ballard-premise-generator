@@ -7,6 +7,7 @@ import { readFileSync } from 'fs';
 import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 import Generator from "../src/generator.mjs";
+import Variables from "../src/variables.mjs";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -18,11 +19,23 @@ function loadAsArray(path) {
         .filter(s => s !== '' && !s.startsWith('#'));
 }
 
+function loadVariables(path) {
+    const lines = loadAsArray(path);
+    const vars = new Variables();
+    for (const line of lines) {
+        const [name, rest] = line.split(/\s*=\s*/);
+        const values = rest.split(/\s*\|\s*/);
+        vars.add(name, values);
+    }
+    return vars;
+}
+
 function main() {
     const gen = new Generator({
         subject: loadAsArray("../corpus/subject.txt"),
         action: loadAsArray("../corpus/action.txt"),
         location: loadAsArray("../corpus/location.txt"),
+        variables: loadVariables("../corpus/variables.txt"),
     });
 
     for (let i = 0; i < 100; i++) {
