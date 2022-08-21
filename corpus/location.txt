@@ -12,7 +12,7 @@ in|a high-rise apartment building
 in|a lavish villa in the Paris suburbs
 in|a Pacific atoll poisoned by radioactive contamination
 in|a remote village in French west Africa
-in|a town where time never advances 
+in|a town where time never advances
 in|a world where all human interaction is mediated via television screens
 in|an abandoned resort town
 in|post-apocalyptic Spain
