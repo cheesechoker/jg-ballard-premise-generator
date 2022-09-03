@@ -1,11 +1,12 @@
-adjective = wounded | former | alcoholic | mentally debilitated | mentally unstable | zealous
+adjective = wounded | former | alcoholic | mentally debilitated | mentally unstable | zealous | mortally wounded | itinerant
 broken_object = a damaged WWII fighter plane | a derelict automobile
 celeb = President John F. Kennedy | Ronald Regan | the film actress Elizabeth Taylor | Marilyn Monroe
 discovery = an unknown state of matter | a creeping infestation | the corpse of a giant humanoid creature | an underground sex-trafficking ring run by corporate CEOs | plants that produce musical tones
 enemies = vagrants | looters
 malady = fantastical mental delusions | a mysterious wasting illness
 place = highway interchange | old motel | derelict automobile
-profession = astronaut | pilot | engineer | radar technician | journalist | dermatologist | cinematographer | socialite | novelist | physician | animal rights crusader
+profession = astronaut | pilot | engineer | radar technician | newspaper reporter | advertising executive | dermatologist | cinematographer | socialite | novelist | physician | animal rights crusader | archaeologist
 phenomenon = the dark secrets of a mysterious heiress | the existence of god | a rising rate of fetal abnormalities | a government plot to dispose of "undesirables" abroad | metallic structures that grow like plants
 strange_effect = time to move slower | crystalline spores to consume one's skin | radioactive tissue decay
+strange_dependent_clause = working for an automotive part supplier | who has spent the past 12 years in the same chair | whose leg has been amputated
 # | the power to grant instant death to ones' enemies
