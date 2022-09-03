@@ -5,8 +5,8 @@ at|Disney World
 at|the Las Vegas strip
 at|the ruins of Cape Canaveral
 at|the site of an aviation disaster in Mexico 
+at|a defunct mining camp in <dry_region>
 in|a cruise missile silo
-in|a defunct mining camp in Nevada
 in|a gated community for the ultra-rich
 in|a high-rise apartment building 
 in|a lavish villa in the Paris suburbs
@@ -15,7 +15,6 @@ in|a remote village in French west Africa
 in|a town where time never advances
 in|a world where all human interaction is mediated via television screens
 in|an abandoned resort town
-in|post-apocalyptic Spain
-in|post-apocalyptic Florida
-in|the Nevada desert
+in|post-apocalyptic <glamorous_region>
+in|the <dry_region> desert
 in|war-ravaged Shanghai

@@ -1,15 +1,9 @@
 #a  former <profession>
-#a <profession> working for an automotive part supplier
 #a holidaymaker
-#a man who has spent the past 12 years in the same chair
-#a man whose leg has been amputated
-#a mentally unstable <profession>
-#a mortally wounded archaeologist
-#a zealous animal-rights crusader
-#an advertising executive
 #an astronaut who died orbiting the earth 
 #an unethical newspaper reporter
 #a <profession>
 
+a <profession>
 a <adjective> <profession>
 a <profession> <strange_dependent_clause>
