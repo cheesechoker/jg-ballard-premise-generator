@@ -13,8 +13,15 @@ export default class Generator {
   }
 
   getElement(array) {
-    const string = randomElement(array);
-    return this.expandVars(string);
+    let string = randomElement(array);
+    while (this.hasVar(string)) {
+      string = this.expandVars(string);
+    }
+    return string;
+  }
+
+  hasVar(string) {
+    return /<[^>]+>/. test(string);
   }
 
   expandVars(string) {
