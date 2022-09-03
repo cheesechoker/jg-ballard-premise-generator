@@ -1,21 +1,21 @@
 #at|Disney World
 #at|the Las Vegas strip
+#in|a cruise missile silo
+#in|a gated community for the ultra-rich
 at|<proper_place>
-at|a <adjective_broken> mining camp in <dry_region>
 at|a <adjective_broken> <port>
+at|a <adjective_broken> mining camp in <dry_region>
 at|a former nuclear test site in <tropical_place>
 at|a luxury hotel on the <coastal_area>
 at|the ruins of <proper_place>
-at|the site of an aviation disaster in Mexico 
+at|the site of an aviation disaster in Mexico
 in|a <adjective_broken> resort town
-in|a cruise missile silo
-in|a gated community for the ultra-rich
-in|a high-rise apartment building 
-in|a lavish villa in the <city> suburbs
 in|a <adjective_tropical> atoll poisoned by radioactive contamination
-in|a remote village in French west Africa
+in|a <place>
+in|a lavish villa in the <city> suburbs
+in|a remote village in French Africa
 in|a town where time never advances
 in|a world where all human interaction is mediated via television screens
 in|post-apocalyptic <glamorous_region>
-in|the <dry_region> desert
+in|the <adjective_dry_region> desert
 in|war-ravaged Shanghai

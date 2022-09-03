@@ -1,6 +1,7 @@
 adjective = wounded | former | alcoholic | mentally debilitated | mentally unstable | zealous | mortally wounded | itinerant | perverted
 adjective2 = nudist
 adjective_broken = damaged | derelict | defunct | forgotten | abandoned | disused
+adjective_dry_region = Nevada | New Mexico | North African | Moroccan
 adjective_tropical = Pacific | Polynesian | Tahitian
 animal = albatross
 celeb = President John F. Kennedy | Ronald Regan | the film actress Elizabeth Taylor | Marilyn Monroe
@@ -12,7 +13,7 @@ dry_region = Nevada | New Mexico | North Africa | Morocco
 glamorous_region = Spain | Florida
 enemies = vagrants | looters
 malady = fantastical mental delusions | a mysterious wasting disease
-place = highway interchange | old motel | derelict automobile
+place = highway interchange | old motel | derelict automobile | high-rise apartment building | cruise missile silo | gated community for the ultra-rich
 port = airport | spaceport
 proper_place = Cape Canaveral | Disney World
 profession = astronaut | leper | pilot | apostate priest | engineer | radar technician | chauffeur | photographer | newspaper reporter | advertising executive | dermatologist | cinematographer | socialite | novelist | physician | animal rights crusader | archaeologist
