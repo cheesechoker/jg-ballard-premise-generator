@@ -18,8 +18,15 @@ export default class Generator {
   }
 
   expandVars(string) {
-    return string.replace(/<([^>]+)>/g, (substring, varName) => {
-      return this.variables.get(varName);
+    return string.replace(/(an? )?<([^>]+)>/g, (substring, article, varName, index) => {
+      const varValue = this.variables.get(varName);
+      if (!article) {
+        return varValue;
+      }
+
+      // Make article agree with subsequent word
+      const newArticle = /^[aeiou]/.test(varValue) ? "an" : "a";
+      return `${newArticle} ${varValue}`;
     });
   }
 
