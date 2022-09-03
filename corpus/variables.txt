@@ -1,17 +1,26 @@
 adjective = wounded | former | alcoholic | mentally debilitated | mentally unstable | zealous | mortally wounded | itinerant | perverted
-broken_object = a damaged WWII fighter plane | a derelict automobile
+adjective2 = nudist
+adjective_broken = damaged | derelict | defunct | forgotten | abandoned | disused
+adjective_tropical = Pacific | Polynesian | Tahitian
+animal = albatross
 celeb = President John F. Kennedy | Ronald Regan | the film actress Elizabeth Taylor | Marilyn Monroe
+city = London | Paris | Milan | Miami
+coastal_area = Mediterranean coast | French Riviera | Spanish Riviera
 creeps = corporate CEOs | high-level executives | philanthropists
-discovery = an unknown state of matter | a creeping infestation | the corpse of a giant humanoid creature | an underground sex-trafficking ring run by <creeps> | plants that produce musical tones
+discovery = an unknown state of matter | a creeping infestation | the corpse of a giant humanoid creature | an underground sex-trafficking ring run by <creeps> | plants that produce musical tones | mood-sensitive clothing
 dry_region = Nevada | New Mexico | North Africa | Morocco
 glamorous_region = Spain | Florida
 enemies = vagrants | looters
-malady = fantastical mental delusions | a mysterious wasting illness
+malady = fantastical mental delusions | a mysterious wasting disease
 place = highway interchange | old motel | derelict automobile
+port = airport | spaceport
+proper_place = Cape Canaveral | Disney World
 profession = astronaut | leper | pilot | apostate priest | engineer | radar technician | chauffeur | photographer | newspaper reporter | advertising executive | dermatologist | cinematographer | socialite | novelist | physician | animal rights crusader | archaeologist
 phenomenon = the dark secrets of a mysterious heiress | the existence of god | a rising rate of fetal abnormalities | a government plot to dispose of "undesirables" abroad | metallic structures that grow like plants
 strange_effect = time to move slower | crystalline spores to consume one's skin | radioactive tissue decay
 strange_dependent_clause = working for an automotive part supplier | who has spent the past 12 years in the same chair | whose leg has been amputated | on holiday
+tech_object = WWII fighter plane | automobile | spacecraft
+tropical_place = French Polynesia | Hawaii | Fiji
 
 # | the power to grant instant death to ones' enemies
 # TODO: crystalline, saurians, leprosy, scientist

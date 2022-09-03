@@ -2,7 +2,7 @@
 #murders a domestic servant while reliving the shower scene from PSYCHO during a fugue state
 assassinates <celeb>
 battles <enemies> for dominance of a <place>
-battles a nudist would-be <profession>
+battles a <adjective2> would-be <profession>
 comes to terms with his wife's chronic infidelity by becoming a peeping tom
 contracts a mysterious illness that causes <strange_effect>
 discovers <discovery>
@@ -12,9 +12,9 @@ has sex with <celeb>
 heals a young girl suffering from <malady>
 hunts for relics from crashed spacecraft
 investigates <phenomenon>
-restores <broken_object>
+restores a <adjective_broken> <tech_object>
 stages car crashes for sexual gratification
 stalks <celeb>
-struggles to save the endangered albatross from the French navy
+struggles to save the endangered <animal> from the French navy
 studies <phenomenon>
 uncovers <phenomenon>

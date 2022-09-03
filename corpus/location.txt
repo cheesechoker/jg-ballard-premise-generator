@@ -1,20 +1,21 @@
-at|a disused spaceport
-at|a former nuclear test site in French Polynesia 
-at|a luxury hotel on the Mediterranean coast 
-at|Disney World
-at|the Las Vegas strip
-at|the ruins of Cape Canaveral
+#at|Disney World
+#at|the Las Vegas strip
+at|<proper_place>
+at|a <adjective_broken> mining camp in <dry_region>
+at|a <adjective_broken> <port>
+at|a former nuclear test site in <tropical_place>
+at|a luxury hotel on the <coastal_area>
+at|the ruins of <proper_place>
 at|the site of an aviation disaster in Mexico 
-at|a defunct mining camp in <dry_region>
+in|a <adjective_broken> resort town
 in|a cruise missile silo
 in|a gated community for the ultra-rich
 in|a high-rise apartment building 
-in|a lavish villa in the Paris suburbs
-in|a Pacific atoll poisoned by radioactive contamination
+in|a lavish villa in the <city> suburbs
+in|a <adjective_tropical> atoll poisoned by radioactive contamination
 in|a remote village in French west Africa
 in|a town where time never advances
 in|a world where all human interaction is mediated via television screens
-in|an abandoned resort town
 in|post-apocalyptic <glamorous_region>
 in|the <dry_region> desert
 in|war-ravaged Shanghai

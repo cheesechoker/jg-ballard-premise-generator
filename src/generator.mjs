@@ -18,7 +18,7 @@ export default class Generator {
   }
 
   expandVars(string) {
-    return string.replace(/(an? )?<([^>]+)>/g, (substring, article, varName, index) => {
+    return string.replace(/(\ban? )?<([^>]+)>/g, (substring, article, varName, index) => {
       const varValue = this.variables.get(varName);
       if (!article) {
         return varValue;
